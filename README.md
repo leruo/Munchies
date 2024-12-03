@@ -301,4 +301,4 @@
             <div
               class="w-full bg-center bg-no-repeat aspect-video bg-cover rounded-xl"
               style='background-image: url("https://cdn.usegalileo.ai/stability/aac42e82-224f-4f5c-8f0c-c79b56ff2d43.png");'
-   
+ ></div>  index.HTML
