@@ -119,7 +119,7 @@
               style='background-image: url("https://i.postimg.cc/BZ5ydch0/potjiekos-500x.jpg");'
             ></div>
             <div class="flex w-full min-w-72 grow flex-col items-stretch justify-center gap-1 py-4 @xl:px-4">
-              <p class="text-[#1C1D22] text-lg font-bold leading-tight tracking-[-0.015em]">Zakhele's Potjie'</p>
+              <p class="text-[#1C1D22] text-lg font-bold leading-tight tracking-[-0.015em]">Zakhele's Potjie </p>
               <div class="flex items-end gap-3 justify-between"><p class="text-[#3C3F4A] text-base font-normal leading-normal">Dunkeld· 7.24 kilometers away</p></div>
             </div>
           </div>
