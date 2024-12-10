@@ -58,13 +58,13 @@
         </div>
         <div class="flex gap-3 p-3 overflow-x-hidden">
           <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#EEEFF2] pl-4 pr-4">
-            <p class="text-[#1C1D22] text-sm font-medium leading-normal">Open Now</p>
+            <p class="text-[#1C1D22] text-sm font-medium leading-normal">Bunny Chow</p>
           </div>
           <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#EEEFF2] pl-4 pr-4">
             <p class="text-[#1C1D22] text-sm font-medium leading-normal">Rock Shandies</p>
           </div>
           <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#EEEFF2] pl-4 pr-4">
-            <p class="text-[#1C1D22] text-sm font-medium leading-normal">Bunny Chow</p>
+            <p class="text-[#1C1D22] text-sm font-medium leading-normal">Wors</p>
           </div>
           <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#EEEFF2] pl-4 pr-4">
             <p class="text-[#1C1D22] text-sm font-medium leading-normal">Tacos</p>
