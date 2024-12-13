@@ -49,7 +49,7 @@
                 </svg>
               </div>
               <input
-                placeholder="Search for food,  locations"
+                placeholder="Search for food,locations"
                 class="form-input flex w-full min-w-0 flex-1 resize-none overflow-hidden rounded-xl text-[#1C1D22] focus:outline-0 focus:ring-0 border-none bg-[#EEEFF2] focus:border-none h-full placeholder:text-[#3C3F4A] px-4 rounded-l-none border-l-0 pl-2 text-base font-normal leading-normal"
                 value=""
               />
