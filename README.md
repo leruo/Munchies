@@ -12,7 +12,7 @@
     <link rel="icon" type="image/x-icon" href="data:image/x-icon;base64," />
 
     <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
-  
+  </head>
   <body>
     <div
       class="relative flex size-full min-h-screen flex-col bg-[#F9FAFA] justify-between group/design-root overflow-x-hidden"
@@ -205,7 +205,6 @@
     <link rel="icon" type="image/x-icon" href="data:image/x-icon;base64," />
 
     <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
-  <head>  
   </head>
   <body>
     <div
@@ -281,61 +280,7 @@
           </div>
         </div>
         <footer class="flex flex-col gap-6 px-5 py-10 text-center @container"><p class="text-[#4e7397] text-base font-normal leading-normal">Munchies ZA</p></footer>
-      </div>
-      <div>
-        <div class="flex gap-2 border-t border-[#e7edf3] bg-slate-50 px-4 pb-3 pt-2">
-          <a class="just flex flex-1 flex-col items-center justify-end gap-1 text-[#4e7397]" href="#">
-            <div class="text-[#4e7397] flex h-8 items-center justify-center" data-icon="House" data-size="24px" data-weight="regular">
-              <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="currentColor" viewBox="0 0 256 256">
-                <path
-                  d="M218.83,103.77l-80-75.48a1.14,1.14,0,0,1-.11-.11,16,16,0,0,0-21.53,0l-.11.11L37.17,103.77A16,16,0,0,0,32,115.55V208a16,16,0,0,0,16,16H96a16,16,0,0,0,16-16V160h32v48a16,16,0,0,0,16,16h48a16,16,0,0,0,16-16V115.55A16,16,0,0,0,218.83,103.77ZM208,208H160V160a16,16,0,0,0-16-16H112a16,16,0,0,0-16,16v48H48V115.55l.11-.1L128,40l79.9,75.43.11.1Z"
-                ></path>
-              </svg>
-            </div>
-            <p class="text-[#4e7397] text-xs font-medium leading-normal tracking-[0.015em]">Home</p>
-          </a>
-          <a class="just flex flex-1 flex-col items-center justify-end gap-1 text-[#4e7397]" href="#">
-            <div class="text-[#4e7397] flex h-8 items-center justify-center" data-icon="Suitcase" data-size="24px" data-weight="regular">
-              <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="currentColor" viewBox="0 0 256 256">
-                <path
-                  d="M216,56H176V48a24,24,0,0,0-24-24H104A24,24,0,0,0,80,48v8H40A16,16,0,0,0,24,72V200a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V72A16,16,0,0,0,216,56ZM96,48a8,8,0,0,1,8-8h48a8,8,0,0,1,8,8v8H96Zm64,24V200H96V72ZM40,72H80V200H40ZM216,200H176V72h40V200Z"
-                ></path>
-              </svg>
-            </div>
-            <p class="text-[#4e7397] text-xs font-medium leading-normal tracking-[0.015em]">Services</p>
-          </a>
-          <a class="just flex flex-1 flex-col items-center justify-end gap-1 text-[#4e7397]" href="#">
-            <div class="text-[#4e7397] flex h-8 items-center justify-center" data-icon="ChartLine" data-size="24px" data-weight="regular">
-              <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="currentColor" viewBox="0 0 256 256">
-                <path
-                  d="M232,208a8,8,0,0,1-8,8H32a8,8,0,0,1-8-8V48a8,8,0,0,1,16,0v94.37L90.73,98a8,8,0,0,1,10.07-.38l58.81,44.11L218.73,90a8,8,0,1,1,10.54,12l-64,56a8,8,0,0,1-10.07.38L96.39,114.29,40,163.63V200H224A8,8,0,0,1,232,208Z"
-                ></path>
-              </svg>
-            </div>
-            <p class="text-[#4e7397] text-xs font-medium leading-normal tracking-[0.015em]">Insights</p>
-          </a>
-          <a class="just flex flex-1 flex-col items-center justify-end gap-1 text-[#4e7397]" href="#">
-            <div class="text-[#4e7397] flex h-8 items-center justify-center" data-icon="Users" data-size="24px" data-weight="regular">
-              <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="currentColor" viewBox="0 0 256 256">
-                <path
-                  d="M117.25,157.92a60,60,0,1,0-66.5,0A95.83,95.83,0,0,0,3.53,195.63a8,8,0,1,0,13.4,8.74,80,80,0,0,1,134.14,0,8,8,0,0,0,13.4-8.74A95.83,95.83,0,0,0,117.25,157.92ZM40,108a44,44,0,1,1,44,44A44.05,44.05,0,0,1,40,108Zm210.14,98.7a8,8,0,0,1-11.07-2.33A79.83,79.83,0,0,0,172,168a8,8,0,0,1,0-16,44,44,0,1,0-16.34-84.87,8,8,0,1,1-5.94-14.85,60,60,0,0,1,55.53,105.64,95.83,95.83,0,0,1,47.22,37.71A8,8,0,0,1,250.14,206.7Z"
-                ></path>
-              </svg>
-            </div>
-            <p class="text-[#4e7397] text-xs font-medium leading-normal tracking-[0.015em]">About</p>
-          </a>
-          <a class="just flex flex-1 flex-col items-center justify-end gap-1 rounded-full text-[#0e141b]" href="#">
-            <div class="text-[#0e141b] flex h-8 items-center justify-center" data-icon="Tray" data-size="24px" data-weight="fill">
-              <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="currentColor" viewBox="0 0 256 256">
-                <path
-                  d="M208,32H48A16,16,0,0,0,32,48V208a16,16,0,0,0,16,16H208a16,16,0,0,0,16-16V48A16,16,0,0,0,208,32Zm0,176H48V168H76.69L96,187.32A15.89,15.89,0,0,0,107.31,192h41.38A15.86,15.86,0,0,0,160,187.31L179.31,168H208v40Z"
-                ></path>
-              </svg>
-            </div>
-            <p class="text-[#0e141b] text-xs font-medium leading-normal tracking-[0.015em]">Contact</p>
-          </a>
-        </div>
-        <div class="h-5 bg-slate-50"></div>
+     
       </div>
     </div>
   </body>
